@@ -25,5 +25,6 @@ In the context of processing surveillance video feeds, OpenCV serves as the cruc
 
 ## 4. Google Colab Practice Notebook
 The complete hands-on code implementations, visual outputs, and experimental steps for these OpenCV operations are documented in the interactive notebook below:
-
-👉 **[Access the OpenCV Practice Notebook]()**
+ 
+ 
+ **[Access the OpenCV Practice Notebook](https://colab.research.google.com/drive/1xXEh34w7lYWw6pv0xyS5l_H7_WiZtSlu?usp=sharing)**
